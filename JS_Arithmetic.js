@@ -1,5 +1,5 @@
 // TITLE
-console.log(" ----- Area Of Shapes JS Arithmetic Challenge ----- \n\n")
+console.log(" -- Area Of Shapes JS Arithmetic Challenge --\n\n")
 
 // Constant Variables:
 const pi = 3.1419;
